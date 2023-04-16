@@ -9,6 +9,7 @@
         "tmp": "tmp",
         "settings": "settings",
         "src": "src",
+        "media": "media",
         "plugins": "plugins"
     },
     "scripts": {
